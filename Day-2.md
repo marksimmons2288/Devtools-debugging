@@ -17,3 +17,5 @@
 -'task-9': 'Comet' for Task 9',
 
 -'task-10': 'Volcano' for Task 10',
+
+I added break points at the start of each function and stepped through each line of code. I set the break point option check box to pause on uncaught exceptions. [^1]
