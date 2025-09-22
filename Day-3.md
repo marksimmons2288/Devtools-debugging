@@ -14,3 +14,5 @@
 - 'task 18' : 'Orbit',
 - 'task 19' : 'Nebula',
 - 'task 20' : 'Zenith',
+
+I set break points at the initial line of the function and stepped through each line of until the end of the function. I set my break point toggle to "pause on uncaught exceptions."
